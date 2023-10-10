@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Set a white background for the entire page */
+body {
+    background-color: white;
+}
+
+/* Style for the bar charts */
+.bar-chart {
+    fill: lightblue; /* Change the color of the bars to lighter blue */
+}
+
+/* Center the title */
+h1 {
+    text-align: center;
+}
